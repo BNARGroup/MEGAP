@@ -1,3 +1,5 @@
+![logo_dark](https://github.com/user-attachments/assets/391b2709-4349-496b-8420-40f80741fcc3)
+
 # MEGAP: MEG Automatic Pipeline
 
 Magnetoencephalography (MEG) data often contains noise and artifacts that necessitate comprehensive pre-processing prior to analysis. **MEGAP** is developed to automate this crucial pre-processing phase, minimizing the requirement for manual adjustments. By utilizing standardized parameter selections, MEGAP facilitates the pre-processing of large-scale MEG datasets, enhancing the consistency, efficiency, and reproducibility of research outcomes.
@@ -5,6 +7,9 @@ Magnetoencephalography (MEG) data often contains noise and artifacts that necess
 ## Project Purpose
 
 The primary aim of MEGAP is to optimize the pre-processing of MEG data, specifically for large-scale datasets that are impractical to handle manually. Researchers dealing with extensive MEG datasets will find the automation capabilities of MEGAP advantageous, as it conserves time and mitigates the risk of human error during the pre-processing stage.
+
+## Documentation
+The MEGAP [documentation](https://megap.gitbook.io/megap) includes comprehensive details such as installation guidelines, tutorials, folder structure, usage instructions, and in-depth explanations of each step in the workflow.
 
 ## Features of MEGAP
 - **Automated Execution**: The pipeline runs to completion without requiring user intervention.
@@ -63,6 +68,9 @@ The primary aim of MEGAP is to optimize the pre-processing of MEG data, specific
 
 6. **Outputs**:  
    Upon completion of the pipeline, the output power spectra plots can be located in the ‘PSD’ folders, while the output text files will be found in the ‘verbose’ folder. The supplementary materials provide a detailed description of the folder structure and contents in the ‘Details of MEGAP Folder Structure’ section.
+
+## Citation
+If you find our code or paper helpful in your research, we kindly ask you to cite our [publication](google.com).
 
 ## License
 
