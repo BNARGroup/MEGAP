@@ -1,0 +1,24 @@
+# MEGAP requirements with MATLAB 2023a
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+mne
+matplotlib
+numpy
+scipy
+pandas
+seaborn
+pyvista
+vtk
+python-picard
+mne-qt-browser
+tensorflow
+reportlab
+keras
+tensorflow-addons
+mne-bids
+kneed
+prettytable
+autoreject
+py-cpuinfo
+matlabengine
