@@ -9,7 +9,7 @@ Magnetoencephalography (MEG) data often contains noise and artifacts that necess
 The primary aim of MEGAP is to optimize the pre-processing of MEG data, specifically for large-scale datasets that are impractical to handle manually. Researchers dealing with extensive MEG datasets will find the automation capabilities of MEGAP advantageous, as it conserves time and mitigates the risk of human error during the pre-processing stage.
 
 ## Documentation
-The MEGAP [documentation](https://megap.gitbook.io/megap) includes comprehensive details such as installation guidelines, tutorials, folder structure, usage instructions, and in-depth explanations of each step in the workflow.
+The MEGAP [documentation](https://megap.gitbook.io/megap) includes comprehensive details such as installation guidelines, folder structure, usage instructions, and in-depth explanations of each step in the workflow.
 
 ## Features of MEGAP
 - **Automated Execution**: The pipeline runs to completion without requiring user intervention.
