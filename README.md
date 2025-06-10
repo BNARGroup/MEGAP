@@ -19,6 +19,7 @@ The MEGAP [documentation](https://megap.gitbook.io/megap) includes comprehensive
 - **Intermediate Saving Points**: MEGAP can (re)start from any intermediate point by saving the outputs of each stage.
 - **Step-Wise Results Visualization**: Results from each processing step are plotted to verify outputs.
 - **Verbose Files**: Detailed output logs of each function are saved in text files for each participant.
+- **Warning System**:This system generates a warning text, which flags potential issues based on user-defined thresholds.
 
 ### How to Run MEGAP
 
