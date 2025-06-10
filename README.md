@@ -57,8 +57,8 @@ The MEGAP [documentation](https://megap.gitbook.io/megap) includes comprehensive
    |               Config Folder                | ✔️ OK  |
    |                 Raw Folder                 | ✔️ OK  |
    |           CFG Configuration File           | ✔️ OK  |
-   |            SSS Calibration File            | ✔️ OK  |
-   |              Cross-talk File               | ✔️ OK  |
+   |       SSS Calibration File (MEGIN only)    | ✔️ OK  |
+   |          Cross-talk File (MEGIN only)      | ✔️ OK  |
    | Zapline-plus-main folder from their github | ✔️ OK  |
    |  eeglab-develop folder from their github   | ✔️ OK  |
    | mne-matlab-master folder from their github | ✔️ OK  |
