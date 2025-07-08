@@ -71,7 +71,7 @@ The MEGAP [documentation](https://megap.gitbook.io/megap) includes comprehensive
    Upon completion of the pipeline, the output power spectra plots can be located in the ‘PSD’ folders, while the output text files will be found in the ‘verbose’ folder. The supplementary materials provide a detailed description of the folder structure and contents in the ‘Details of MEGAP Folder Structure’ section.
 
 ## Citation
-If you find our code or paper helpful in your research, we kindly ask you to cite our [publication](google.com).
+If you find our code or paper helpful in your research, we kindly ask you to cite our [publication](https://onlinelibrary.wiley.com/journal/14698986).
 
 ## License
 
