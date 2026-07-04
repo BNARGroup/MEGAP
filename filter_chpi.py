@@ -110,7 +110,7 @@ def chpi_crop(subject_ids):
 
                 # Crop the data to exclude the portion before the cHPI starts
                 # Without cHPI data, this function just save the data in .fif format (e.g. CTF or BDI)
-                # data.crop(tmin=start_chpi,tmax=start_chpi+70)#include_tmax=False)
+                data.crop(tmin=start_chpi,include_tmax=False)
 
                 # Save the cropped data in FIF format
                 cropped_data_path = os.path.join(folder_path, f"{subject_id}.fif")
